@@ -1,7 +1,6 @@
 # Dor Shalev
 
-Bioinformatics, Technion Multi-Omics Center
-
+Bioinformatics, Technion Multi-Omics Center - Multi-omics platforms, RNA→protein modelling
 ## Projects
 
 - **TechniOmics** — multi-omics analysis platform for Technion core facilities (private, in production)
